@@ -120,7 +120,7 @@ body {
       <input type="text" placeholder="username" name="uname"/>
       <input type="password" placeholder="password" name="upass"/>
       <button type="submit">login</button>
-      <p class="message">Not registered? <a href="#">Login as Guest</a></p>
+      <p class="message">Not registered? <a href="#">Login as a Guest</a></p>
     </form>
   </div>
 </div>
